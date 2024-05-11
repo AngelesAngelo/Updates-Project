@@ -51,7 +51,7 @@ body {
   transform: rotateX(180deg);
 }
 
-/* Dropdown Content (Hidden by Default) */
+/* Dropdown Content */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -69,11 +69,13 @@ body {
   color: #fff;
   padding: 12px 16px;
   text-decoration: none;
+  margin-left: -15px;
   display: block;
 }
+
 /* nav */
 .dropdown-content a:hover {
-  background-color: #114e6b;
+  background-color: #144d64;
   color: #212b38;
 }
 
