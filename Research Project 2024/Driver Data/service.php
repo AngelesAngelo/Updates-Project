@@ -16,7 +16,7 @@
         <nav class="navbar">
         <ul class="links">
           <li><a href="home.php">Home</a></li>
-          <li><a href="dashboard.php">Dashboard</a></li>i>
+          <li><a href="dashboard.php">Dashboard</a></li>
           <li class="dropdown">
             <input type="checkbox" id="servicesToggle" class="toggle-input">
             <label for="servicesToggle" class="dropbtn">Services <span class="arrow">&#9660;</span></label>
