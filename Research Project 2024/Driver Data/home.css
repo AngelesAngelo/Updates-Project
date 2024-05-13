@@ -149,13 +149,13 @@ body {
 }
 
 .homeconupdt{
+  padding: 20px;
   border: 3px solid;
-  margin-top: 20px;
   border-radius: 10px;
   background-color: rgb(11, 108, 120);
-  padding: 20px;
-  
+  margin-top: 20px;
 }
+
 
 .center {
   text-align: center;

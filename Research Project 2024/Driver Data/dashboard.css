@@ -146,7 +146,7 @@ body {
   padding: 10px;
   width: 60%;
   margin: auto;
-  border-radius: 10px;
+  border-radius: 15px;
   margin-bottom: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -171,4 +171,15 @@ th {
 }
 td{
   color: aliceblue;
+}
+
+.ContainerA {
+  display: flex;
+  width: 70%;
+  padding: 10px;
+  border: 3px solid;
+  border-radius: none;
+  background-color: rgb(11, 108, 120);
+  margin-top: 20px;
+  margin: auto;
 }

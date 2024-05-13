@@ -44,7 +44,7 @@
       </div>
       <div class="homeconupdt">
         <h1 class="center2">Updates</h1>
-        <p class="p2">dashconupdtdashconupdtdashconupdtdashconupdtdashconupdtdashconupdtdashconupdtdashconupdtdashconupdtdashconupdt</p>
+        <p class="p2">dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt dashconupdt</p>
       </div>
     </main>
   </body>
